@@ -1,0 +1,51 @@
+Demo
+
+Features
+	Add
+	Commit
+	Diff
+	Log
+	Revert
+
+
+hello.txt --> "hello world"
+Add
+Commit
+
+
+hello.txt --> "hi everybody"
+	Add
+	Commit
+	Log
+	Revert
+
+Main.hs
+	Add
+	Commit
+	Log
+	Revert
+
+rm Main.hs
+	Revert
+
+delete portion of Main.hs
+	Add
+	Commit
+	Diff
+
+testdir/foo.txt --> "this sits in testdir"
+	Add
+	Commit
+	Log
+
+
+testdir/testdir2/bar.txt --> "we must go deeper"
+testdir/foo2.txt --> "foo my cousin lets go bowling"
+	Add
+	Commit
+	Log
+	Revert --> testdir/foo.txt
+
+
+
+
